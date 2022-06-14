@@ -17,4 +17,4 @@ Con esta caculadora se puede realizar las siguiente operacciones:
 
 ## Imagen
 
-[![captura1](/Captura1.PNG)]
+![captura1](/Captura1.PNG)
